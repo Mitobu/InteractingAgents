@@ -1,0 +1,2 @@
+# InteractingAgents
+The goal of this project is to implement mathematically chaotic, but psychologically realistic agents. Their behaviors should be based upon their personalities, which are based on their experiences, which are influenced by their past experiences and genetics. the actors should have a perspective of the world that would be realistic given their understanding of the world around them and background.
